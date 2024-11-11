@@ -29,6 +29,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [mcpdict-for-yomitan](https://github.com/omnilingual/mcpdict-for-yomitan) - A Pronunciation Dictionary in CJKV for Yomitan. 
 
 ## Tools
+- [YomiNinja](https://github.com/matt-m-o/YomiNinja) - Open-source OCR and dictionary tool. 
 - [ッツ Ebook Reader](https://reader.ttsu.app/) - Online e-book reader that supports dictionary extensions like Yomitan.
 - [Game2Text](https://game2text.com/) - Complete toolbox for gamifying language learning.
 - [yomitan-import](https://github.com/themoeway/yomitan-import) - External dictionary importer for Yomitan. 
